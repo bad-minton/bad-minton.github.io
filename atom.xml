@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bad-minton.github.io</id>
     <title>BADdict</title>
-    <updated>2020-12-20T02:03:09.288Z</updated>
+    <updated>2020-12-20T02:13:24.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bad-minton.github.io"/>
     <link rel="self" href="https://bad-minton.github.io/atom.xml"/>
-    <subtitle>Something Good with BAD(MINTON)</subtitle>
+    <subtitle>Something Good with BAD(*)</subtitle>
     <logo>https://bad-minton.github.io/images/avatar.png</logo>
     <icon>https://bad-minton.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, BADdict</rights>
